@@ -1,0 +1,27 @@
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.deps.json
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.csprojAssemblyReference.cache
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.csproj.CoreCompileInputs.cache
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.AssemblyInfoInputs.cache
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.AssemblyInfo.cs
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+c:\Users\Say\source\repos\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.deps.json
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.csprojAssemblyReference.cache
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.AssemblyInfoInputs.cache
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.AssemblyInfo.cs
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+D:\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.deps.json
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.csprojAssemblyReference.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.csproj.CoreCompileInputs.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.AssemblyInfoInputs.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.AssemblyInfo.cs
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Domain.Contracts\obj\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb

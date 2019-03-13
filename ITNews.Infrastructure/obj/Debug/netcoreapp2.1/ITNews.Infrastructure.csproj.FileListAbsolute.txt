@@ -1,0 +1,54 @@
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.AssemblyInfo.cs
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.pdb
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.deps.json
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.pdb
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.pdb
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csproj.CopyComplete
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Services.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Services.pdb
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.deps.json
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.dll
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.pdb
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.dll
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Services.dll
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.pdb
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Services.pdb
+D:\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+D:\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csprojAssemblyReference.cache
+D:\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.AssemblyInfo.cs
+D:\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csproj.CopyComplete
+D:\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.dll
+D:\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.deps.json
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Infrastructure.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Services.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Services.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csprojAssemblyReference.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csproj.CoreCompileInputs.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.AssemblyInfoInputs.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.AssemblyInfo.cs
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.csproj.CopyComplete
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Infrastructure\obj\Debug\netcoreapp2.1\ITNews.Infrastructure.pdb

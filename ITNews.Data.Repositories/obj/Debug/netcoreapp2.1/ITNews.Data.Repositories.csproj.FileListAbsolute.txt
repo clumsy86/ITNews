@@ -1,0 +1,48 @@
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csprojAssemblyReference.cache
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.AssemblyInfoInputs.cache
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.AssemblyInfo.cs
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.deps.json
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.runtimeconfig.json
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.runtimeconfig.dev.json
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.pdb
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csproj.CopyComplete
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+C:\Users\Say\source\repos\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.deps.json
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.runtimeconfig.json
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.runtimeconfig.dev.json
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.dll
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.pdb
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csprojAssemblyReference.cache
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.AssemblyInfoInputs.cache
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.AssemblyInfo.cs
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csproj.CopyComplete
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+D:\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.deps.json
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.runtimeconfig.json
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.runtimeconfig.dev.json
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Data.Contracts.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\bin\Debug\netcoreapp2.1\ITNews.Domain.Contracts.pdb
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csprojAssemblyReference.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csproj.CoreCompileInputs.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.AssemblyInfoInputs.cache
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.AssemblyInfo.cs
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.csproj.CopyComplete
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.dll
+d:\Наташин хлам\ASP.NET\ITNews\ITNews.Data.Repositories\obj\Debug\netcoreapp2.1\ITNews.Data.Repositories.pdb
